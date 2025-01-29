@@ -33,7 +33,7 @@ when_I_am_not_on_Github:
 
 Want to know more? 
 <ul>
-      <li> You can learn more about projects I did in my <a href="https://cotesimonpierre.github.io/portfolio/">portfolio</a> </li>
+      <!-- <li> You can learn more about projects I did in my <a href="https://cotesimonpierre.github.io/portfolio/">portfolio</a> </li> -->
       <li> Visit my LinkedIn profile for all the professional details! <br><br>
 	     <a href="https://www.linkedin.com/in/simon-pierre-côté-b9157141/"><img align="center" src="assets/LinkedIn-0077B5.svg" alt="LinkedIn profile" height="30"></a>
      </li>
